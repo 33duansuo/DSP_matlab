@@ -1,2 +1,5 @@
 # DSP_matlab
 东南大学DSP实验以及海洋声信号实验matlab代码
+Acoustic均为海洋声信号实验matlab代码
+还有两次DSP实验的完整报告
+作者：段仁俊
